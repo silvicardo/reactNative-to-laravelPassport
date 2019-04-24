@@ -1,0 +1,9 @@
+Follow this youtube tutorial https://www.youtube.com/watch?v=eCs2GsWNkoo
+
+- delete main.jsbundle
+- recreate as an empty file
+- run in this folder
+react-native bundle --entry-file index.js --platform ios --dev false --bundle-output ios/main.jsbundle --assets-dest ios
+
+-when done run
+  react-native run-ios
