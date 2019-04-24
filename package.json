@@ -9,6 +9,7 @@
     "android": "react-native run-ios"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "16.8.3",
     "react-native": "0.59.5"
   },
